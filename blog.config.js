@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'JOFFEE',
+  title: 'Joffee',
   author: 'joffeego',
   email: '3108574816@qq.com',
   link: 'https://www.joffee.eu.org/',
-  description: 'It gonna be awesome.',
+  description: 'It gonna be awesome！',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'light', // ['light', 'dark', 'auto'],
