@@ -1,18 +1,18 @@
 const BLOG = {
   title: 'Joffee',
   author: 'joffeego',
-  email: '3108574816@qq.com',
+  email: 'joffeego@foxmail.com',
   link: 'https://www.joffee.eu.org/',
   description: 'It gonna be awesome！',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
-  lightBackground: '#EEEDE7', // use hex value, don't forget '#' e.g #fffefc
+  lightBackground: '#FFFFFF', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#868B8E', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2024, // If leave this empty, current year will be used.
-  postsPerPage: 10,
+  postsPerPage: 15,
   sortByDate: false,
   showAbout: true,
   showArchive: true,
